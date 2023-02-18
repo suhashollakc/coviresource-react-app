@@ -2,7 +2,7 @@
   "name": "covid-19-app",
   "version": "0.1.0",
    "engines": {
-    "node": "3.10.10"
+    "node": "16.16.0"
   },
   "private": true,
   "dependencies": {
